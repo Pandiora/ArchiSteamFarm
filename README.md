@@ -29,8 +29,8 @@ Detailed setting up instructions are available on **[our wiki](https://github.co
 
 Detailed documentation of all available commands is available on **[our wiki](https://github.com/JustArchi/ArchiSteamFarm/wiki/Commands)**.
 
-> Commands can be executed via a private chat with your bot.
-> Remember that bot accepts commands only from ```SteamMasterID```. That property can be configured in the config.
+> Commands can be executed via a private- or group-chat.
+> Remember that bot accepts commands only from ```SteamMasterID```. This property can be configured in the config.
 
 **Supported / Tested Operating-Systems:**
 
